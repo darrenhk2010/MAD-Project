@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_person">Profile</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <string name="action_save">Save</string>
+    <string name="name">Name</string>
+
+    <string name="title_activity_add_trip">AddTripActivity</string>
+    <string name="title_activity_manage_trip">ManageTripActivity</string>
+    <string name="title_activity_records">RecordsActivity</string>
+    <string name="title_activity_add_record">AddRecordActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+
+    <string-array name="currency_array">
+        <item>Australian Dollar</item>
+        <item>Hong Kong Dollar</item>
+        <item>US Dollar</item>
+        <item>Euro</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_records">MapRecordsActivity</string>
+    <string name="dialog_fire">Confirm delete this trip</string>
+    <string name="fire">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="FailRead">Failed to read data</string>
+    <string name="tripChange">Data is changed</string>
+    <string name="tripNull">Trip is null</string>
+    <string name="NoticeDialogFragment">NoticeDialogFragment</string>
+    <string name="EmailEmpty">Enter email address!</string>
+    <string name="PasswordEmpty">Enter password!</string>
+    <string name="PasswordFormat">Password too short, enter minimum 6 characters!</string>
+
+    <string name="signupSuccess">Sigped up successfully</string>
+    <string name="signupFail">Authentication failed.</string>
+
+    <string name="NameEmpty">Enter name!</string>
+    <string name="AmountEmpty">Enter amount!</string>
+    <string name="Exception">Exception</string>
+    <string name="datePicker">date picker</string>
+    <string name="selectPicture">Select a Photo</string>
+    <string name="uploading">Uploading...</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="Failed">Failed </string>
+    <string name="present">%</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="resetEmail">We have sent you instructions to reset your password!</string>
+</resources>
